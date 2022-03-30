@@ -7,3 +7,4 @@ display current working directory in long format,numerically and with hidden fil
 creates a directory in the tmp directory
 moving a file
 deleting a file
+Deleting a directory
