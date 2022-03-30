@@ -5,3 +5,4 @@ A script that Display current directory contents in a long format
 Display current directory contents, including hidden files (starting with .). Use the long format.
 display current working directory in long format,numerically and with hidden files
 creates a directory in the tmp directory
+moving a file
