@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .). Us
 display current working directory in long format,numerically and with hidden files
 creates a directory in the tmp directory
 moving a file
+deleting a file
